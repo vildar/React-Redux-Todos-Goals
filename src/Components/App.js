@@ -1,4 +1,4 @@
-import React from 'react';
+import React from './node_modules/react'
 
 function App() {
   return (
@@ -8,4 +8,4 @@ function App() {
   )
 }
 
-export default App;
+export default App
